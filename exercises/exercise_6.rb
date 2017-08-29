@@ -23,6 +23,6 @@ end
 @store1.employees.create(first_name: "Rachel", last_name: "Pie", hourly_rate: 50)
 @store1.employees.create(first_name: "Jenna", last_name: "KC", hourly_rate: 20)
 @store2.employees.create(first_name: "Corgi", last_name: "Love", hourly_rate: 100)
-@store2.employees.create(first_name: "Husky", last_name: "DoubleLove", hourly_rate: 250)
+@store2.employees.create(first_name: "Husky", last_name: "DoubleLove", hourly_rate: 180)
 
 # pp Employee.all
